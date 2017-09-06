@@ -1,0 +1,51 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>pagehelp</find>
+      <find>preInsert</find>
+      <find>type</find>
+      <find>ras</find>
+      <find>baseone</find>
+      <find>serv</find>
+      <find>form</find>
+      <find>queryOneSchoolInfoByCer</find>
+      <find>f</find>
+      <find>ServletContextFactory</find>
+      <find>poi</find>
+      <find>UserInfo</find>
+      <find>return id</find>
+      <find>ads</find>
+      <find>schoo</find>
+      <find />
+      <find>courseName</find>
+      <find>studentLearnInfoResult</find>
+      <find>ibatis</find>
+      <find>learnDetailInfoList</find>
+      <find>GroupInfoMap</find>
+      <find>init</find>
+      <find>insertuserrole</find>
+      <find>`</find>
+      <find>\r\n</find>
+      <find>周学情信息</find>
+      <find>list</find>
+      <find>USER</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>zadao</replace>
+      <replace>api</replace>
+      <replace>INTEGER</replace>
+      <replace>src=&quot;</replace>
+      <replace>&quot;assets</replace>
+      <replace>&quot;${ctx}/assets</replace>
+      <replace>false</replace>
+      <replace>MAVEN</replace>
+      <replace>zhmu</replace>
+      <replace>log</replace>
+      <replace>&quot;</replace>
+      <replace>private</replace>
+      <replace>Melon</replace>
+      <replace />
+      <replace>sys_user</replace>
+    </replaceStrings>
+  </component>
+</application>

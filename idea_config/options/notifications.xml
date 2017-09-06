@@ -1,0 +1,6 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="JRebel non-sticky" shouldLog="false" />
+    <notification groupId="NOTIFICATION_APP_KEY" displayType="STICKY_BALLOON" shouldLog="false" />
+  </component>
+</application>

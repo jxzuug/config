@@ -1,0 +1,345 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="svn working copy format">
+      <project id="BlueSky" values="1.8" collectionTime="1472890271446" />
+      <project id="webportal" values="1.8" collectionTime="1472890986867" />
+      <project id="BDGW" values="1.8" collectionTime="1472729519767" />
+      <project id="jeeplus" values="1.8" collectionTime="1472000684870" />
+      <project id="B_ADS_SCHOOL" values="1.8" collectionTime="1472890981164" />
+      <project id="IMP" values="1.8" collectionTime="1472629050758" />
+      <project id="andportal" values="1.8" collectionTime="1472731747226" />
+      <project id="BDGW_Adapter" values="1.8" collectionTime="1472631107031" />
+      <project id="manage" values="1.8" collectionTime="1472614684571" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="struts2-rest-ex" values="ECMAScript 6" collectionTime="1472656817041" />
+      <project id="IMP" values="ECMAScript 6" collectionTime="1472629050759" />
+      <project id="webportal" values="ECMAScript 6" collectionTime="1472890986867" />
+      <project id="BDGW" values="ECMAScript 6" collectionTime="1472729519767" />
+      <project id="andportal" values="ECMAScript 6" collectionTime="1472731747226" />
+      <project id="manage" values="ECMAScript 6" collectionTime="1472614684571" />
+      <project id="BDGW_Adapter" values="ECMAScript 6" collectionTime="1472631107033" />
+      <project id="jeesite" values="ECMAScript 6" collectionTime="1472733166048" />
+      <project id="melon" values="ECMAScript 5.1" collectionTime="1472864530918" />
+      <project id="activiti" values="ECMAScript 6" collectionTime="1476185232211" />
+      <project id="B_ADS_SCHOOL" values="ECMAScript 6" collectionTime="1472890981164" />
+      <project id="BlueSky" values="ECMAScript 6" collectionTime="1472890271446" />
+      <project id="cfp-example" values="ECMAScript 6" collectionTime="1472356609241" />
+      <project id="mybatis-demo" values="ECMAScript 6" collectionTime="1471794963086" />
+      <project id="jeeplus" values="ECMAScript 5.1" collectionTime="1472000684872" />
+    </group>
+    <group name="vcs">
+      <project id="BlueSky" values="svn" collectionTime="1472890271382" />
+      <project id="webportal" values="svn" collectionTime="1472890986802" />
+      <project id="BDGW" values="svn" collectionTime="1472729519720" />
+      <project id="jeeplus" values="svn" collectionTime="1472000684767" />
+      <project id="jeesite" values="Git" collectionTime="1472733165970" />
+      <project id="B_ADS_SCHOOL" values="svn" collectionTime="1472890981110" />
+      <project id="IMP" values="svn" collectionTime="1472629050694" />
+      <project id="andportal" values="svn" collectionTime="1472731747160" />
+      <project id="manage" values="svn" collectionTime="1472614684501" />
+      <project id="BDGW_Adapter" values="svn" collectionTime="1472631106928" />
+      <project id="melon" values="Git" collectionTime="1472864530634" />
+    </group>
+    <group name="Spring Boot">
+      <project id="cfp-example" values="ConfigurationProperties_1,RunConfigsPerProject_1,application.properties,SpringBootDevTools,SpringBootModulesPerProject_1" collectionTime="1472356609264" />
+      <project id="melon" values="application.properties,SpringBootDevTools,RunConfigsPerProject_1,SpringBootModulesPerProject_1,ConfigurationProperties_Methods_2" collectionTime="1472864530979" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="BlueSky" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1472890271383" />
+      <project id="webportal" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1472890986802" />
+      <project id="BDGW" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1472729519720" />
+      <project id="jeeplus" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1472000684769" />
+      <project id="jeesite" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1472733165970" />
+      <project id="B_ADS_SCHOOL" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1472890981110" />
+      <project id="IMP" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1472629050696" />
+      <project id="andportal" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1472731747160" />
+      <project id="cfp-example" values="SpringBootApplicationConfigurationType" collectionTime="1472356608992" />
+      <project id="BDGW_Adapter" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1472631106930" />
+      <project id="manage" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1472614684501" />
+      <project id="melon" values="SpringBootApplicationConfigurationType" collectionTime="1472864530636" />
+    </group>
+    <group name="VCS Log 2">
+      <project id="jeesite" values="data.git.root.count.1,data.commit.count.100+" collectionTime="1472733166047" />
+      <project id="melon" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1472864530763" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="webportal" values="MavenRunConfiguration" collectionTime="1472890986802" />
+      <project id="BDGW" values="JUnit" collectionTime="1472729519720" />
+      <project id="jeeplus" values="Application" collectionTime="1472000684769" />
+      <project id="B_ADS_SCHOOL" values="JUnit" collectionTime="1472890981110" />
+      <project id="cfp-example" values="MavenRunConfiguration" collectionTime="1472356608992" />
+      <project id="activiti" values="Application" collectionTime="1476185231879" />
+      <project id="BDGW_Adapter" values="JUnit" collectionTime="1472631106930" />
+      <project id="melon" values="MavenRunConfiguration,JUnit" collectionTime="1472864530636" />
+    </group>
+    <group name="file-type">
+      <project id="struts2-rest-ex" values="CSS,Images,JSP,IDEA_MODULE,JavaScript,HTML,Manifest,SQL,XML,JAVA" collectionTime="1472656817026" />
+      <project id="IMP" values="ARCHIVE,JavaScript,Eclipse,JAVA,HTML,ASP,SWF,FTL,PLAIN_TEXT,JSP,JSON Schema,SourceMap,UNKNOWN,Manifest,IDEA_MODULE,CSS,SQL,Images,Properties,XML" collectionTime="1472629050739" />
+      <project id="webportal" values="JSHint,JavaScript,CSS,Properties,IDEA_MODULE,PLAIN_TEXT,SWF,XML,SourceMap,SCSS,Eclipse,Images,JSP,Manifest,ASP,JAVA,ARCHIVE,Markdown,HTML,UNKNOWN" collectionTime="1472890986867" />
+      <project id="BDGW" values="HTML,XML,PLAIN_TEXT,JAVA,Markdown,UNKNOWN,CSS,Eclipse,SWF,Manifest,JavaScript,IDEA_MODULE,Properties,SourceMap,JSP,Images,Native" collectionTime="1472729519766" />
+      <project id="andportal" values="JSP,JavaScript,HTML,Markdown,SWF,Manifest,Properties,Images,XML,PLAIN_TEXT,UNKNOWN,Eclipse,SourceMap,Native,IDEA_MODULE,JAVA,CSS" collectionTime="1472731747226" />
+      <project id="manage" values="PLAIN_TEXT,SourceMap,Images,IDEA_MODULE,JSP,UNKNOWN,FTL,SQL,HTML,CSS,XML,JavaScript,ASP,JAVA,ARCHIVE,Properties,Eclipse,SWF,Manifest,JSON Schema" collectionTime="1472614684560" />
+      <project id="BDGW_Adapter" values="XML,ARCHIVE,CSS,JavaScript,JAVA,JSP,Properties,Images,Manifest,Eclipse,IDEA_MODULE,PLAIN_TEXT,HTML,SWF" collectionTime="1472631107014" />
+      <project id="jeesite" values="Properties,JSON Schema,JavaScript,SWF,ProGuard File,HTML,Markdown,ASP,IDEA_MODULE,Native,SourceMap,PLAIN_TEXT,XML,Images,JAVA,CSS,ARCHIVE,UNKNOWN,SQL,JSP" collectionTime="1472733166036" />
+      <project id="melon" values="XML,IDEA_MODULE,JAVA,Markdown,UNKNOWN,ARCHIVE,Images,Properties,Enforced Plain Text,HTML,PLAIN_TEXT" collectionTime="1472864530723" />
+      <project id="activiti" values="JAVA,BPMN_EDITOR,IDEA_MODULE,Eclipse,XML" collectionTime="1476185231990" />
+      <project id="B_ADS_SCHOOL" values="JSP,JAVA,Properties,PLAIN_TEXT,IDEA_MODULE,XML,Eclipse" collectionTime="1472890981157" />
+      <project id="BlueSky" values="PLAIN_TEXT,Properties,SQL,XML,JAVA,IDEA_MODULE,JSP,JavaScript,Images,UNKNOWN,Markdown,Manifest,ARCHIVE,CSS,Eclipse,HTML,SWF" collectionTime="1472890271437" />
+      <project id="cfp-example" values="PLAIN_TEXT,CSS,HTML,JSON Schema,SourceMap,SQL,XML,IDEA_MODULE,Properties,JAVA,JavaScript,Images" collectionTime="1472356609048" />
+      <project id="mybatis-demo" values="XML,IDEA_MODULE,JAVA" collectionTime="1471794962902" />
+      <project id="jeeplus" values="Properties,ASP,SQL,JavaScript,SWF,ARCHIVE,Native,UNKNOWN,PLAIN_TEXT,XML,JSP,JAVA,Images,SCSS,Markdown,IDEA_MODULE,JSON Schema,YAML,Less,Manifest,SourceMap,CSS,Eclipse,HTML" collectionTime="1472000684866" />
+    </group>
+    <group name="libraries">
+      <project id="struts2-rest-ex" values="struts2,spring,TransactionJavaee,hibernate" collectionTime="1472656817041" />
+      <project id="IMP" values="spring-mvc,spring,TransactionJavaee,repository,spring-batch,EJB,BeanValidation" collectionTime="1472629050755" />
+      <project id="webportal" values="spring-mvc,CDI,TransactionJavaee,spring-batch,BeanValidation,WebSocket,spring,JAX-WS" collectionTime="1472890986867" />
+      <project id="BDGW" values="spring-mvc,spring,spring-batch,CDI,BeanValidation,WebSocket" collectionTime="1472729519767" />
+      <project id="andportal" values="spring,spring-batch,CDI,WebSocket,BeanValidation,spring-mvc" collectionTime="1472731747226" />
+      <project id="manage" values="BeanValidation,TransactionJavaee,spring-batch,spring-mvc,EJB,spring" collectionTime="1472614684570" />
+      <project id="BDGW_Adapter" values="spring-mvc,spring,spring-batch" collectionTime="1472631107028" />
+      <project id="jeesite" values="groovy,spring,spring-mvc,BeanValidation,spring-security" collectionTime="1472733166045" />
+      <project id="melon" values="thymeleaf,spring,spring-boot,EJB,spring-data-jpa,hibernate,groovy,TransactionJavaee,BeanValidation,WebSocket,spring-mvc" collectionTime="1472864530759" />
+      <project id="activiti" values="spring,groovy" collectionTime="1476185232014" />
+      <project id="B_ADS_SCHOOL" values="BatchApplications,spring-mvc,CDI,spring,spring-batch,BeanValidation,TransactionJavaee,JAX-WS" collectionTime="1472890981164" />
+      <project id="BlueSky" values="BeanValidation,repository,spring-batch,spring-mvc,TransactionJavaee,EJB,spring" collectionTime="1472890271445" />
+      <project id="cfp-example" values="spring-mvc,spring-boot,groovy,EJB,spring-data-jpa,TransactionJavaee,thymeleaf,WebSocket,spring,hibernate,BeanValidation,spring-security" collectionTime="1472356609052" />
+      <project id="jeeplus" values="BeanValidation,spring,spring-mvc,groovy" collectionTime="1472000684867" />
+    </group>
+    <group name="Spring MVC">
+      <project id="BlueSky" values="viewResolver_UrlBasedViewResolver_,fileset_webXml,fileset_webXml,viewResolvers_1,mvcModelsInProject_1" collectionTime="1472890272356" />
+      <project id="webportal" values="mvcModelsInProject_1,viewResolver_UrlBasedViewResolver_.jsp,fileset_webXml,fileset_webXml,viewResolvers_1" collectionTime="1472890987008" />
+      <project id="BDGW" values="viewResolver_UrlBasedViewResolver_.jsp,mvcModelsInProject_1,fileset_webXml,fileset_webXml,viewResolvers_1" collectionTime="1472729519880" />
+      <project id="jeeplus" values="mvcModelsInProject_1,viewResolver_UrlBasedViewResolver_.jsp,fileset_webXml,fileset_webXml,viewResolvers_1" collectionTime="1472000685018" />
+      <project id="jeesite" values="fileset_webXml,viewResolvers_1,mvcModelsInProject_1,viewResolver_UrlBasedViewResolver_.jsp,fileset_webXml" collectionTime="1472733166197" />
+      <project id="B_ADS_SCHOOL" values="mvcModelsInProject_1,fileset_webXml,viewResolver_UrlBasedViewResolver_.jsp,fileset_webXml,viewResolvers_1" collectionTime="1472890981546" />
+      <project id="IMP" values="fileset_webXml,mvcModelsInProject_1,fileset_webXml,viewResolver_UrlBasedViewResolver_.jsp,viewResolvers_1" collectionTime="1472629050835" />
+      <project id="andportal" values="mvcModelsInProject_1,fileset_webXml,viewResolvers_1,fileset_webXml,viewResolver_UrlBasedViewResolver_.jsp" collectionTime="1472731747323" />
+      <project id="cfp-example" values="mvcModelsInProject_0" collectionTime="1472356609249" />
+      <project id="BDGW_Adapter" values="viewResolver_UrlBasedViewResolver_.jsp,fileset_webXml,fileset_webXml,viewResolvers_1,mvcModelsInProject_1" collectionTime="1472631107434" />
+      <project id="manage" values="mvcModelsInProject_1,viewResolver_UrlBasedViewResolver_.jsp,viewResolvers_1,fileset_webXml,fileset_webXml" collectionTime="1472614684666" />
+      <project id="melon" values="mvcModelsInProject_0" collectionTime="1472864530967" />
+    </group>
+    <group name="spring">
+      <project id="BlueSky" values="xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/context,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/task,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/p,fileset_xmlContext,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/p,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,fileset_configFiles5" collectionTime="1472890272297" />
+      <project id="webportal" values="fileset_xmlContext,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context,fileset_configFilesGreater10,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/p,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/context,xmlNS_code.alibabatech.com/schema/dubbo,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/context,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/tx" collectionTime="1472890986867" />
+      <project id="BDGW" values="xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/mvc,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/aop,fileset_xmlContext,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/tx,fileset_configFiles10,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/aop,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/context" collectionTime="1472729519775" />
+      <project id="jeeplus" values="xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/task,xmlNS_www.springframework.org/schema/mvc,fileset_configFiles5,xmlNS_www.springframework.org/schema/tx,fileset_xmlContext,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/context,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,xmlNS_www.springframework.org/schema/util,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context" collectionTime="1472000684896" />
+      <project id="BDGW_Adapter" values="xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/aop,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/mvc,fileset_xmlContext,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/aop,fileset_configFiles10,xmlNS_www.springframework.org/schema/context,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet" collectionTime="1472631107159" />
+      <project id="B_ADS_SCHOOL" values="fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet" collectionTime="1472890981169" />
+      <project id="IMP" values="xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/task,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,xmlNS_www.springframework.org/schema/context,fileset_xmlContext,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/mvc,fileset_configFiles10,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/aop,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,xmlNS_www.springframework.org/schema/tx" collectionTime="1472629050772" />
+      <project id="jeesite" values="xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/task,xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/context,fileset_xmlContext,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context,fileset_configFiles5,xmlNS_www.springframework.org/schema/mvc,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet" collectionTime="1472733166058" />
+      <project id="melon" values="fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet" collectionTime="1472864530966" />
+      <project id="struts2-rest-ex" values="xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/tx,fileset_xmlContext,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/context,fileset_configFiles5,xmlNS_www.springframework.org/schema/tx,fileset_autodetect_NONE" collectionTime="1472656817057" />
+      <project id="andportal" values="xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/context,fileset_configFiles10,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/aop,fileset_xmlContext,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/p,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,xmlNS_www.springframework.org/schema/aop,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/tx" collectionTime="1472731747233" />
+      <project id="cfp-example" values="fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet" collectionTime="1472356609248" />
+      <project id="manage" values="xmlNS_www.springframework.org/schema/p,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context,fileset_xmlContext,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/mvc,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/task,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/aop,fileset_configFiles10,xmlNS_www.springframework.org/schema/p" collectionTime="1472614684581" />
+    </group>
+    <group name="module type">
+      <project id="struts2-rest-ex" values="JAVA_MODULE" collectionTime="1472656816994" />
+      <project id="IMP" values="JAVA_MODULE" collectionTime="1472629050695" />
+      <project id="webportal" values="JAVA_MODULE" collectionTime="1472890986802" />
+      <project id="BDGW" values="JAVA_MODULE" collectionTime="1472729519720" />
+      <project id="andportal" values="JAVA_MODULE" collectionTime="1472731747160" />
+      <project id="manage" values="JAVA_MODULE" collectionTime="1472614684501" />
+      <project id="BDGW_Adapter" values="JAVA_MODULE" collectionTime="1472631106928" />
+      <project id="jeesite" values="JAVA_MODULE" collectionTime="1472733165970" />
+      <project id="melon" values="JAVA_MODULE" collectionTime="1472864530635" />
+      <project id="activiti" values="JAVA_MODULE" collectionTime="1476185231878" />
+      <project id="B_ADS_SCHOOL" values="JAVA_MODULE" collectionTime="1472890981110" />
+      <project id="BlueSky" values="JAVA_MODULE" collectionTime="1472890271383" />
+      <project id="cfp-example" values="JAVA_MODULE" collectionTime="1472356608991" />
+      <project id="mybatis-demo" values="JAVA_MODULE" collectionTime="1471794962848" />
+      <project id="jeeplus" values="JAVA_MODULE" collectionTime="1472000684768" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="struts2-rest-ex" values="Project,Project,Project" collectionTime="1472656817041" />
+      <project id="IMP" values="Project,Project,Project" collectionTime="1472629050759" />
+      <project id="webportal" values="Project,Project,Project" collectionTime="1472890986867" />
+      <project id="BDGW" values="Project,Project,Project" collectionTime="1472729519767" />
+      <project id="andportal" values="Project,Project,Project" collectionTime="1472731747226" />
+      <project id="manage" values="Project,Project,Project" collectionTime="1472614684571" />
+      <project id="BDGW_Adapter" values="Project,Project,Project" collectionTime="1472631107033" />
+      <project id="jeesite" values="Project,Project,Project" collectionTime="1472733166048" />
+      <project id="melon" values="Project,Project" collectionTime="1472864530918" />
+      <project id="activiti" values="Project,Project,Project" collectionTime="1476185232211" />
+      <project id="B_ADS_SCHOOL" values="Project,Project,Project" collectionTime="1472890981164" />
+      <project id="BlueSky" values="Project,Project,Project" collectionTime="1472890271446" />
+      <project id="cfp-example" values="Project,Project,Project" collectionTime="1472356609241" />
+      <project id="mybatis-demo" values="Project,Project,Project" collectionTime="1471794963086" />
+      <project id="jeeplus" values="Project,Project" collectionTime="1472000684872" />
+    </group>
+    <group name="Git">
+      <project id="struts2-rest-ex" values="config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.ssh.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT" collectionTime="1472656817041" />
+      <project id="IMP" values="config.push.update.all.roots.enabled,config.ssh.enabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled" collectionTime="1472629050757" />
+      <project id="webportal" values="config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.force.push.enabled" collectionTime="1472890986867" />
+      <project id="BDGW" values="config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.ssh.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1472729519767" />
+      <project id="andportal" values="config.warn.about.crlf.enabled,config.force.push.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.save.policy.STASH" collectionTime="1472731747226" />
+      <project id="manage" values="config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH" collectionTime="1472614684571" />
+      <project id="BDGW_Adapter" values="config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled" collectionTime="1472631107031" />
+      <project id="jeesite" values="config.warn.about.detached.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,data.local.branches.count.1,data.remotes.in.project.1,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.2+,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.save.policy.STASH" collectionTime="1472733166047" />
+      <project id="melon" values="config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.repo.sync.NOT_DECIDED,data.remote.branches.count.2+,config.push.autoupdate.disabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.force.push.enabled,config.warn.about.crlf.enabled,data.local.branches.count.1,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,data.remotes.in.project.1" collectionTime="1472864530766" />
+      <project id="activiti" values="config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.push.update.all.roots.enabled,config.force.push.enabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled" collectionTime="1476185232017" />
+      <project id="B_ADS_SCHOOL" values="config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.force.push.enabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED" collectionTime="1472890981164" />
+      <project id="BlueSky" values="config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.ssh.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH" collectionTime="1472890271446" />
+      <project id="cfp-example" values="config.save.policy.STASH,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.push.autoupdate.disabled,config.ssh.enabled" collectionTime="1472356609055" />
+      <project id="mybatis-demo" values="config.save.policy.STASH,config.warn.about.detached.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1471794962915" />
+      <project id="jeeplus" values="config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.force.push.enabled" collectionTime="1472000684870" />
+    </group>
+    <group name="images.ide.background">
+      <project id="struts2-rest-ex" values="frame 0,editor 0" collectionTime="1472656817041" />
+      <project id="IMP" values="frame 0,editor 0" collectionTime="1472629050755" />
+      <project id="webportal" values="editor 0,frame 0" collectionTime="1472890986867" />
+      <project id="BDGW" values="editor 0,frame 0" collectionTime="1472729519767" />
+      <project id="andportal" values="editor 0,frame 0" collectionTime="1472731747226" />
+      <project id="manage" values="editor 0,frame 0" collectionTime="1472614684570" />
+      <project id="BDGW_Adapter" values="frame 0,editor 0" collectionTime="1472631107028" />
+      <project id="jeesite" values="editor 0,frame 0" collectionTime="1472733166047" />
+      <project id="melon" values="editor 0,frame 0" collectionTime="1472864530763" />
+      <project id="activiti" values="editor 0,frame 0" collectionTime="1476185232014" />
+      <project id="B_ADS_SCHOOL" values="frame 0,editor 0" collectionTime="1472890981164" />
+      <project id="BlueSky" values="editor 0,frame 0" collectionTime="1472890271445" />
+      <project id="cfp-example" values="editor 0,frame 0" collectionTime="1472356609052" />
+      <project id="mybatis-demo" values="editor 0,frame 0" collectionTime="1471794962912" />
+      <project id="jeeplus" values="frame 0,editor 0" collectionTime="1472000684867" />
+    </group>
+    <group name="frameworks">
+      <project id="BlueSky" values="Spring,web" collectionTime="1472890271382" />
+      <project id="webportal" values="Spring,web" collectionTime="1472890986802" />
+      <project id="BDGW" values="Spring,web" collectionTime="1472729519720" />
+      <project id="jeeplus" values="Spring,web" collectionTime="1472000684768" />
+      <project id="BDGW_Adapter" values="Spring,web" collectionTime="1472631106928" />
+      <project id="B_ADS_SCHOOL" values="web,Spring" collectionTime="1472890981110" />
+      <project id="IMP" values="web,Spring" collectionTime="1472629050695" />
+      <project id="jeesite" values="web,Spring" collectionTime="1472733165970" />
+      <project id="melon" values="Spring" collectionTime="1472864530635" />
+      <project id="struts2-rest-ex" values="Struts2,Spring,web" collectionTime="1472656816994" />
+      <project id="andportal" values="Spring,web" collectionTime="1472731747160" />
+      <project id="cfp-example" values="Spring" collectionTime="1472356608991" />
+      <project id="manage" values="Spring,web" collectionTime="1472614684501" />
+    </group>
+    <group name="language-level">
+      <project id="struts2-rest-ex" values="JDK_1_6,JDK_1_8" collectionTime="1472656817041" />
+      <project id="IMP" values="JDK_1_8" collectionTime="1472629050756" />
+      <project id="webportal" values="JDK_1_8" collectionTime="1472890986867" />
+      <project id="BDGW" values="JDK_1_7,JDK_1_8" collectionTime="1472729519767" />
+      <project id="andportal" values="JDK_1_7,JDK_1_8" collectionTime="1472731747226" />
+      <project id="manage" values="JDK_1_8" collectionTime="1472614684571" />
+      <project id="BDGW_Adapter" values="JDK_1_8" collectionTime="1472631107029" />
+      <project id="jeesite" values="JDK_1_8,JDK_1_6" collectionTime="1472733166047" />
+      <project id="melon" values="JDK_1_8" collectionTime="1472864530765" />
+      <project id="activiti" values="JDK_1_6,JDK_1_8" collectionTime="1476185232016" />
+      <project id="B_ADS_SCHOOL" values="JDK_1_8" collectionTime="1472890981164" />
+      <project id="BlueSky" values="JDK_1_8" collectionTime="1472890271446" />
+      <project id="cfp-example" values="JDK_1_8" collectionTime="1472356609053" />
+      <project id="mybatis-demo" values="JDK_1_8" collectionTime="1471794962914" />
+      <project id="jeeplus" values="JDK_1_8" collectionTime="1472000684869" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="8" />
+      <entry feature="OpenInBrowser.Chrome" count="12" />
+      <entry feature="OpenInBrowser.Yandex" count="1" />
+      <entry feature="StripeButton[Application Servers].hidden" count="1" />
+      <entry feature="StripeButton[Dependency Viewer].hidden" count="1" />
+      <entry feature="StripeButton[JRebel_Console].hidden" count="1" />
+      <entry feature="StripeButton[Java Enterprise].hidden" count="1" />
+      <entry feature="StripeButton[Spring].hidden" count="1" />
+      <entry feature="StripeButton[Version Control].hidden" count="1" />
+      <entry feature="StripeButton[Version Control].shown" count="5" />
+      <entry feature="StripeButton[Version_Control].shown" count="2" />
+      <entry feature="configure.code.style.on.selected.fragment" count="4" />
+      <entry feature="debugger.reload.classes" count="7" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Coverage" count="1" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Debug" count="2" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.JRebel Debug" count="226" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.JRebel Executor" count="535" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Run" count="64" />
+      <entry feature="execute.Application.Debug" count="14" />
+      <entry feature="execute.Application.JRebel Debug" count="6" />
+      <entry feature="execute.Application.Run" count="91" />
+      <entry feature="execute.JUnit.Debug" count="13" />
+      <entry feature="execute.JUnit.JRebel Debug" count="121" />
+      <entry feature="execute.JUnit.JRebel Executor" count="4" />
+      <entry feature="execute.JUnit.Run" count="181" />
+      <entry feature="execute.MavenRunConfiguration.JRebel Debug" count="2" />
+      <entry feature="execute.MavenRunConfiguration.Run" count="32" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.JRebel Debug" count="39" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Run" count="2" />
+      <entry feature="ide.help.ideaInterface.editor" count="2" />
+      <entry feature="ide.help.procedures.navigating.goto.class" count="2" />
+      <entry feature="ide.help.refactoring.renameFile" count="2" />
+      <entry feature="ide.help.reference.dialogs.breakpoints" count="3" />
+      <entry feature="ide.help.select.path.dialog" count="1" />
+      <entry feature="ide.help.settings_passwords_master_password_enter" count="1" />
+      <entry feature="ide.help.spring.managing.file.sets" count="1" />
+      <entry feature="ide.help.top" count="1" />
+      <entry feature="ide.help.webservices.GenerateJavaFromWSDL" count="1" />
+      <entry feature="ide.settings.Appearance" count="68" />
+      <entry feature="ide.settings.Application&#10;Servers" count="3" />
+      <entry feature="ide.settings.Auto_Import" count="1" />
+      <entry feature="ide.settings.Code_Completion" count="1" />
+      <entry feature="ide.settings.Code_Style" count="6" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="1" />
+      <entry feature="ide.settings.Console" count="1" />
+      <entry feature="ide.settings.Console_Font" count="23" />
+      <entry feature="ide.settings.Debugger" count="1" />
+      <entry feature="ide.settings.Eclipse_Code_Formatter" count="6" />
+      <entry feature="ide.settings.File_Encodings" count="6" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="4" />
+      <entry feature="ide.settings.Font" count="59" />
+      <entry feature="ide.settings.GUI_Designer" count="2" />
+      <entry feature="ide.settings.General" count="3" />
+      <entry feature="ide.settings.Git" count="1" />
+      <entry feature="ide.settings.GitHub" count="4" />
+      <entry feature="ide.settings.Grep_Console" count="2" />
+      <entry feature="ide.settings.Importing" count="4" />
+      <entry feature="ide.settings.Inspections" count="2" />
+      <entry feature="ide.settings.JavaScript" count="1" />
+      <entry feature="ide.settings.Java_Compiler" count="9" />
+      <entry feature="ide.settings.Keymap" count="13" />
+      <entry feature="ide.settings.Libraries" count="1" />
+      <entry feature="ide.settings.Live_Templates" count="6" />
+      <entry feature="ide.settings.Maven" count="29" />
+      <entry feature="ide.settings.Maven_environment" count="1" />
+      <entry feature="ide.settings.Notifications" count="4" />
+      <entry feature="ide.settings.Plugins" count="19" />
+      <entry feature="ide.settings.Project_Structure" count="67" />
+      <entry feature="ide.settings.Runner" count="2" />
+      <entry feature="ide.settings.SQL_Dialects" count="2" />
+      <entry feature="ide.settings.SSH_Terminal" count="1" />
+      <entry feature="ide.settings.SonarLint_General_Settings" count="4" />
+      <entry feature="ide.settings.SonarQube" count="1" />
+      <entry feature="ide.settings.Subversion" count="1" />
+      <entry feature="ide.settings.System_Settings" count="1" />
+      <entry feature="ide.settings.Tomcat_Server" count="5" />
+      <entry feature="ide.settings.Translation" count="4" />
+      <entry feature="ide.settings.Web_Browsers" count="2" />
+      <entry feature="idea.caches.invalidated" count="3" />
+      <entry feature="ideaapp.started" count="412" />
+      <entry feature="scala.file.script.parsed" count="209" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.java" count="26" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="2246" />
+      <entry feature="spring.SpringFacetInspection.AddFacetFix" count="4" />
+      <entry feature="terminal.win" count="18" />
+      <entry feature="tips.of.the.day.next" count="11" />
+      <entry feature="uml.ShowDiagram.DIFF.popup" count="1" />
+      <entry feature="uml.ShowDiagram.JAVA" count="1" />
+      <entry feature="uml.ShowDiagram.JAVA.popup" count="1" />
+      <entry feature="uml.ShowDiagram.MAVEN" count="1" />
+      <entry feature="uml.ShowDiagram.MAVEN.popup" count="1" />
+      <entry feature="uml.ShowDiagram.MODULES" count="1" />
+      <entry feature="vcs.log.HighlightNon-PickedCommits" count="1" />
+      <entry feature="vcs.log.Refresh" count="1" />
+      <entry feature="welcome.screen.HelpTopics" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="5" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.Documentation" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="3" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="18" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="10" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="4" />
+    </counts>
+  </component>
+</application>

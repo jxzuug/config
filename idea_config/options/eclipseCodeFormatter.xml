@@ -1,0 +1,16 @@
+<application>
+  <component name="EclipseCodeFormatterSettings">
+    <option name="settingsList">
+      <list>
+        <Settings>
+          <option name="defaultSettings" value="true" />
+          <option name="id" value="1476154781945" />
+          <option name="importOrderConfigFilePath" value="$APPLICATION_HOME_DIR$/config/formatter.xml" />
+          <option name="name" value="eclipse" />
+          <option name="pathToConfigFileJava" value="D:/Program Files (x86)/JetBrains/formatter/eclipse-java-google-style.xml" />
+          <option name="selectedJavaProfile" value="GoogleStyle" />
+        </Settings>
+      </list>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,33 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="ChangesView.DeleteUnversioned.From.Dialog@ChangesBrowser" count="1" />
+      <entry action="ChangesView.Refresh@ChangesViewToolbar" count="6" />
+      <entry action="CheckinProject@NavBarToolbar" count="26" />
+      <entry action="CompileDirty@NavBarToolbar" count="49" />
+      <entry action="Debug@NavBarToolbar" count="2" />
+      <entry action="JRebel_Debug@NavBarToolbar" count="10" />
+      <entry action="JRebel_Executor@NavBarToolbar" count="141" />
+      <entry action="Javaee.RefreshDeploymentStatus@unknown" count="1" />
+      <entry action="Maven.AddManagedFiles@Maven_Navigator_Toolbar" count="1" />
+      <entry action="Rerun@RunnerToolbar" count="15" />
+      <entry action="Run@NavBarToolbar" count="15" />
+      <entry action="Stop@NavBarToolbar" count="274" />
+      <entry action="Stop@RunnerToolbar" count="1" />
+      <entry action="ToolWindowOpenSettings@unknown" count="3" />
+      <entry action="Vcs.ShowTabbedFileHistory@NavBarToolbar" count="1" />
+      <entry action="Vcs.UpdateProject@NavBarToolbar" count="1" />
+      <entry action="com.intellij.codeInsight.documentation.DocumentationComponent$EditDocumentationSourceAction@JavadocToolbar" count="1" />
+      <entry action="com.intellij.find.SearchTextArea$ClearAction@unknown" count="2" />
+      <entry action="com.intellij.find.editorHeaderActions.NextOccurrenceAction@EditorToolbar" count="7" />
+      <entry action="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction@EditorToolbar" count="2" />
+      <entry action="com.intellij.openapi.vcs.changes.actions.IgnoredSettingsAction@ChangesViewToolbar" count="2" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="11" />
+      <entry action="com.intellij.usages.impl.UsageGroupingRuleProviderImpl$GroupByFileStructureAction@UsageViewToolbar" count="1" />
+      <entry action="javaee.UpdateRunningApplication@RunnerToolbar" count="1" />
+      <entry action="org.jetbrains.idea.svn.dialogs.PropertiesComponent$AddPropertyAction@SvnProperties" count="1" />
+      <entry action="org.jetbrains.idea.svn.dialogs.RepositoryBrowserDialog$AddLocationAction@RepositoryBrowser.Toolbar" count="1" />
+      <entry action="org.jetbrains.idea.svn.dialogs.RepositoryBrowserDialog$RefreshAction@RepositoryBrowser.Toolbar" count="4" />
+    </counts>
+  </component>
+</application>

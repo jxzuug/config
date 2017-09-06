@@ -1,0 +1,22 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="linkman" />
+      <item value="联系人" />
+      <item value="办公电话" />
+      <item value="fax" />
+      <item value="传真号码" />
+      <item value="address" />
+      <item value="地址" />
+      <item value="媒体" />
+      <item value="username" />
+      <item value="set Create Date" />
+      <item value="mobile" />
+      <item value="check Pre" />
+      <item value="选择素材" />
+      <item value="发送成功" />
+      <item value="Send" />
+      <item value="save Message Except Mpnews" />
+    </histories>
+  </component>
+</application>

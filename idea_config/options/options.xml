@@ -1,0 +1,77 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="installed.kotlin.plugin.version" value="1.1.4-release-IJ2017.2-1" />
+    <property name="android-component-compatibility-check" value="1504141797406" />
+    <property name="KEYMAP" value="Extr&#10;Ex&#10;transla&#10;translate&#10;transf" />
+    <property name="PLUGIN_FILTER" value="nu&#10;nutz&#10;TranslationPlugin&#10;javad&#10;javadoc" />
+    <property name="file.chooser.recent.files" value="D:/Workspaces/idea/jxufe-financial-details/overlays/com.bnwisdom.oAuth2App-0.0.6-undecode-20170411.042844-10&#10;D:/Workspaces/idea/jxufe-financial-details/pom.xml&#10;D:/Workspaces/idea&#10;D:/Workspaces/idea/jxeduPublicConsultion&#10;D:/Workspaces/idea/jxeduPublicConsultion/src/main/resources/rebel.xml&#10;D:/Workspaces/idea/jxeduPublicConsultion/jxeduPublicConsultion.iml&#10;D:/Workspaces/idea/jxeduPublicConsultion/.idea&#10;D:/Workspaces/idea/advisory&#10;D:/Workspaces/idea/fubao/pom.xml&#10;D:/Workspaces/idea/jxeduOnlineQuestion/WebContent&#10;D:/Workspaces/idea/jxeduOnlineQuestion/WebContent/WEB-INF/web.xml&#10;D:/Workspaces/idea/jxeduOnlineQuestion/pom.xml&#10;D:/Workspaces/idea/cloudMall/out&#10;D:/Workspaces/idea/cloudMall&#10;D:/Workspaces/idea/cloudmall&#10;C:/Users/Administrator/Desktop/NutzWk-bootstrap-3.3.x&#10;D:/upload&#10;D:/Workspaces/idea/kfCenter/pom.xml&#10;D:/jxufe/upload&#10;D:/jxufe/file&#10;C:/Program Files/Java/jdk1.8.0_51&#10;D:/apache-maven-3.0.5/conf/settings.xml&#10;D:/apache-maven-3.0.5&#10;D:/Apache/apache-maven-3.0.5/conf/settings.xml&#10;D:/jxufe/file/jxeduMpManage&#10;D:/Workspaces/idea/jxeduMpManage&#10;E:/repository/maven nexus&#10;D:/Workspaces/idea/jxeduMpManage/target&#10;D:/Workspaces/idea/jxeduMpManage/src&#10;C:/Users/Administrator/Desktop/intellij-javadocs.zip" />
+    <property name="typescript.show.auto.import" value="true" />
+    <property name="typescript.merge.auto.import" value="true" />
+    <property name="typescript.use.config.auto.import" value="false" />
+    <property name="ActionScript.add.unambiguous.imports.on.the.fly" value="true" />
+    <property name="selected.color.option.type" value="MARKDOWN_HEADER_LEVEL_1" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="lastTip" value="15" />
+    <property name="export.settings.path" value="C:\Users\xjt2016\Desktop\settings-解决乱码问题.jar" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="JUnitSupport.hidePassedTests" value="true" />
+    <property name="ColorChooser.RecentColors" value="255-69-70-255,,,255-54-46-255,,,255-238-245-255,,,37-6-255-255,,,15-6-79-255,,,17-6-156-255,,,2-2-133-255,,,2-2-112-255,,,43-52-112-255,,,35-43-85-255,,,21-158-255-153,,,131-193-255-102,,,44-64-116-255,,,22-21-116-255,,,59-192-255-102,,,0-184-255-102,,,34-105-255-127,,,0-222-255-127,,,178-252-255-255,,,153-213-255-255" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="quick.doc.font.size" value="MEDIUM" />
+    <property name="vcs.log.details.splitter.proportion" value="0.7336621" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="project.wizard.template" value="Maven" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="0" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/Desktop" />
+    <property name="ExpandBeforeRunStepsPanel" value="false" />
+    <property name="last.imported.location" value="D:/Workspaces/idea/cloudMall" />
+    <property name="eclipse.project.dir" value="D:\Workspaces\eclipse\activiti" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="true" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="173" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.10875476" />
+    <property name="FrameworksFinderRecursivePanel[1]" value="0.12224939" />
+    <property name="FrameworksFinderRecursivePanel[2]" value="0.13956735" />
+    <property name="FrameworksFinderRecursivePanel[3]" value="0.16260162" />
+    <property name="create.project.preferred.importer" value="Maven" />
+    <property name="SpringBeansModulesPanel[0]" value="0.10875476" />
+    <property name="SpringBeansModulesPanel[1]" value="0.16351433" />
+    <property name="SpringBeansModulesPanel[2]" value="0.32213295" />
+    <property name="SpringBeansModulesPanel[3]" value="0.17196904" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.70687026" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Spaces" />
+    <property name="ANALYSIS_FILTER_HISTORY" value="" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.rearrangeEntries" value="true" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="JUnit.Splitter.Proportion" value="0.101520084" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="FrameworksFinderRecursivePanel[4]" value="0.19474196" />
+    <property name="FrameworksFinderRecursivePanel[5]" value="0.24271844" />
+    <property name="vcs.log.changes.splitter.proportion" value="0.54754275" />
+    <property name="INSPECTION_FILTER_HISTORY" value="spell" />
+    <property name="HbCommenterLanguageId" value="HTML" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="true" />
+    <property name="evlsprt3.163" value="15" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.7" />
+    <property name="SpringMvcModulesPanel[0]" value="0.15540016" />
+    <property name="SpringBeanPointerFinderRecursivePanel[0]" value="0.15540016" />
+    <property name="HbAutoCollapseBlocks" value="disabled" />
+    <property name="Default.savedEditorTheme" value="Default copy" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Darcula" />
+    <property name="INTENTION_FILTER_HISTORY" value="" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.8735244" />
+    <property name="LAST_INJECTED_LANGUAGE" value="CSS" />
+    <property name="evlsprt3.171" value="18" />
+    <property name="file.gist.reindex.count" value="23748" />
+    <property name="evlsprt3.172" value="11" />
+    <property name="ts.lib.d.ts.version" value="2.4.1" />
+  </component>
+</application>
